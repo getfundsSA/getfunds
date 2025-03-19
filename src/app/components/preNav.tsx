@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { FaPhoneAlt, FaLinkedinIn, FaFacebookF } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
@@ -14,7 +13,7 @@ const PreNav = () => {
           </div>
           <div className="flex gap-2 items-center">
             <MdEmail size={14} className="text-white" />
-            <p className="text-sm">info@getfunds.com</p>
+            <p className="text-sm">info@getfunds.co.za</p>
           </div>
         </div>
       </div>
